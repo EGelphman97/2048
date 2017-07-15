@@ -1,5 +1,11 @@
+Games Repository
+
+Though I am not a game programmer, I have made these two games for assignments in two different programming classes(one in Java and another in C).
+
 2048 Game with GUI
-Eric Gelphman University of California San Diego
+Eric Gelphman 
+University of California San Diego Jacobs School of Engineering
+Departmen of Electrical and Computer Engineering (ECE)
 
 The three Java files attached are to run the game 2048, this time with graphics, like the original game. 
 The Gui2048 file contains code to implement the GUI and actually run the game. 
@@ -15,3 +21,8 @@ Command Line Arguments:
 java Gui2048 -o -i
 java Gui2048 -s
 -o: string output file name(include extension) -i: string input file name(include extension) -s: size of board(int)
+
+Minesweper Game
+
+Runs just like the classic minesweeper game, and by classic I mean classic because the game was designed to be completely no-frills and one must play it in command line, just like games were played outside of arcades in the late '70s and early '80s.
+Game implemented entirely in C. Controls should be included in the comments of the mine.c file.
